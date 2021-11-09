@@ -19,5 +19,5 @@ image_speed = 0;
 dir = 1;
 
 msg[0] = "I CHEATED ON TINA!";
-msg[1] = "No YOU peaked in high school!";
-msg[2] = "CHAD STILL MAD!!!";
+msg[1] = "No [shake]YOU[/shake] peaked in high school!";
+msg[2] = "CHAD [shake]STILL[/shake] MAD!!!";

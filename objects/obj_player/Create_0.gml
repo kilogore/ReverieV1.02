@@ -1,6 +1,8 @@
 /// @description set up
 event_inherited();
 
+if instance_number(obj_player) > 1 {instance_destroy();}
+
 //start_timer();
 //pause_timer();
 //reset_timer();

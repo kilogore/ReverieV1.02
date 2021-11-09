@@ -28,6 +28,7 @@ function player_swing(){
 	}
 	
 	sprite_index = spr_old_Swing;
+	//if hspd > 0 {image_xscale = -1;} else {image_xscale = 1;}
 	
 	
 }

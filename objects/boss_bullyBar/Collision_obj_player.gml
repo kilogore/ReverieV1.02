@@ -1,5 +1,8 @@
 /// @description Insert description here
 // You can write your code in this editor
+
+if global.pause = false {
+
 if state = bullyState.dash {
 	if obj_player.canHurt = true {
 		obj_player.canHurt = false;
@@ -26,6 +29,8 @@ if obj_player.y<y and obj_player.vspd > 0{
 	HP -= 1;
 	
 	
+}
+
 }
 	
 	

@@ -42,7 +42,7 @@ switch (state) {
 			
 		} else {
 			state = dodgeState.paceR;
-			alarm[0] = room_speed*(choose(0.75,1,1.5,2));
+			alarm[0] = room_speed*(choose(1,1,1.5,2,3));
 				sprite_index = npc_dodge;
 			image_speed = 0;
 		}

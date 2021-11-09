@@ -17,28 +17,28 @@ switch (sel) {
 		scribble("[fnt_title][fa_center][c_red]RESUME").draw(rw,yy1);
 		scribble("[fnt_title][fa_center][c_black]RESTART").draw(rw,yy2);
 		scribble("[fnt_title][fa_center][c_black]AUDIO").draw(rw,yy3);
-		scribble("[fnt_title][fa_center][c_black]QUIT").draw(rw,yy4);
+		scribble("[fnt_title][fa_center][c_black]SAVE & QUIT").draw(rw,yy4);
 	break;
 	
 	case 1:
 		scribble("[fnt_title][fa_center][c_black]RESUME").draw(rw,yy1);
 		scribble("[fnt_title][fa_center][c_red]RESTART").draw(rw,yy2);
 		scribble("[fnt_title][fa_center][c_black]AUDIO").draw(rw,yy3);
-		scribble("[fnt_title][fa_center][c_black]QUIT").draw(rw,yy4);
+		scribble("[fnt_title][fa_center][c_black]SAVE & QUIT").draw(rw,yy4);
 	break;
 	
 	case 2:
 		scribble("[fnt_title][fa_center][c_black]RESUME").draw(rw,yy1);
 		scribble("[fnt_title][fa_center][c_black]RESTART").draw(rw,yy2);
 		scribble("[fnt_title][fa_center][c_red]AUDIO").draw(rw,yy3);
-		scribble("[fnt_title][fa_center][c_black]QUIT").draw(rw,yy4);
+		scribble("[fnt_title][fa_center][c_black]SAVE & QUIT").draw(rw,yy4);
 	break;
 	
 	case 3:
 		scribble("[fnt_title][fa_center][c_black]RESUME").draw(rw,yy1);
 		scribble("[fnt_title][fa_center][c_black]RESTART").draw(rw,yy2);
 		scribble("[fnt_title][fa_center][c_black]AUDIO").draw(rw,yy3);
-		scribble("[fnt_title][fa_center][c_red]QUIT").draw(rw,yy4);
+		scribble("[fnt_title][fa_center][c_red]SAVE & QUIT").draw(rw,yy4);
 	break;
 	
 	

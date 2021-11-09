@@ -51,8 +51,8 @@ state = bossState.idle;
 
 tpAMT = 3;
 tpCD = room_speed*1;
-tossCD = room_speed*2;
-crazyTossCD = room_speed*4;
+tossCD = room_speed*4;
+crazyTossCD = room_speed*6;
 
 
 aggroRange = 128;

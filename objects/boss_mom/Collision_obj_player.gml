@@ -8,5 +8,6 @@ if state = momState.detect {
 	
 	if !instance_exists(fx_deathtransition) {
 		instance_create_depth(0,0,-999,fx_deathtransition);
+			//instance_destroy(obj_player);
 	}
 }

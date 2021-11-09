@@ -58,6 +58,7 @@
     {"id":{"name":"sfx_drink3","path":"sounds/sfx_drink3/sfx_drink3.yy",},"order":2,},
     {"id":{"name":"sfx_bb_to_todd","path":"sounds/sfx_bb_to_todd/sfx_bb_to_todd.yy",},"order":0,},
     {"id":{"name":"spr_void","path":"sprites/spr_void/spr_void.yy",},"order":10,},
+    {"id":{"name":"fx_transitionload","path":"objects/fx_transitionload/fx_transitionload.yy",},"order":7,},
     {"id":{"name":"rm_nursing_caf","path":"rooms/rm_nursing_caf/rm_nursing_caf.yy",},"order":1,},
     {"id":{"name":"rm_menu","path":"rooms/rm_menu/rm_menu.yy",},"order":0,},
     {"id":{"name":"boss_laser2","path":"objects/boss_laser2/boss_laser2.yy",},"order":5,},

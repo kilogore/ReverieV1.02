@@ -42,7 +42,7 @@ switch (state) {
 	case settings.save:
 		if global.Rp {state = settings.music;}
 		if global.Lp {state = settings.sfx;}
-		if global.J {
+		if global.J or global.ENTER{
 			
 			if room = rm_settings {
 				room = rm_menu;

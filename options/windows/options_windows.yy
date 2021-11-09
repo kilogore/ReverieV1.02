@@ -1,9 +1,9 @@
 {
   "option_windows_display_name": "Reverie",
   "option_windows_executable_name": "${project_name}.exe",
-  "option_windows_version": "1.0.0.2",
+  "option_windows_version": "1.0.0.3",
   "option_windows_company_info": "DABUOYS",
-  "option_windows_product_info": "Reverie V 1.02",
+  "option_windows_product_info": "Reverie V 1.03",
   "option_windows_copyright_info": "2021",
   "option_windows_description_info": "An unforgiving platforming game following a shadow's march through time.",
   "option_windows_display_cursor": false,

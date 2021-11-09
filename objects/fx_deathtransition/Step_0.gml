@@ -9,7 +9,9 @@ switch (state) {
 	} else {
 		// goto new room	
 		global.pause = true;
+				//instance_destroy(obj_player);
 		room = rm_0_0;
+
 			obj_player.HP = 3;
 			obj_player.maxHP = 3;
 			obj_player.drawme = true;

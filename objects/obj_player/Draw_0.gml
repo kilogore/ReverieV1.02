@@ -1,6 +1,6 @@
 /// @description Draw bihhhhh
-
-
+//var vv = instance_number(obj_player);
+//draw_text(x,y-20,vv);
 
 
 if state = playerState.swing {

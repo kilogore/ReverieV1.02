@@ -1,4 +1,5 @@
 /// @description set sprite
+
 startMusic = false;
 
 global.pause = true;

@@ -2,6 +2,7 @@
 // You can write your code in this editor
 enum menuState {
 	start,
+	load,
 	settings,
 	credits,
 	quit
@@ -9,7 +10,12 @@ enum menuState {
 }
 layer_hspeed("BG",1);
 
+
+if !file_exists("save.ini") {
 state = menuState.start;
+} else {
+state = menuState.load;	
+}
 audio_stop_all();
 init_volume();
 if !audio_is_playing(mus_title) {

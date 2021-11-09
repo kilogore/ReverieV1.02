@@ -9,6 +9,8 @@ if global.INTERACT and startcut = false {
 	obj_player.sprite_index = spr_crisis_lay;
 	obj_player.x = x;
 	obj_player.y = y-4;
+	obj_player.hspd = 0;
+	obj_player.vspd = 0;
 	obj_player.sleepytime = true;
 	obj_player.sprite_index = spr_old_lay;
 

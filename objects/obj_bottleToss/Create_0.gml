@@ -4,3 +4,5 @@ timer = 4;
 alarm[0] = timer*room_speed;
 
 state = "alive";
+
+image_speed = 0;

@@ -37,6 +37,7 @@ if global.J {
 		
 		case 3:
 			audio_stop_all();
+			save_coors();
 			room = rm_menu;
 		break;
 		

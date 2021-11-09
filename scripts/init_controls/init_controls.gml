@@ -15,6 +15,7 @@ function init_controls(){
 	
 	global.INTERACT = keyboard_check_pressed(ord("E"))
 	global.J = keyboard_check_pressed(vk_space);
+	global.ENTER = keyboard_check_pressed(vk_enter);
 	global.JHOLD = keyboard_check(vk_space);
 	global.RUN = !keyboard_check(vk_shift);
 	global.THROW = mouse_check_button_pressed(mb_left);
